@@ -1,0 +1,56 @@
+* {
+    font-family: 'microsoft yahei', 'Times New Roman', 宋体, Times, serif;
+}
+
+input.valiError {
+    border: 1px solid red;
+    background-color: #FFFFD5;
+}
+
+label.valiError {
+    color: red;
+    margin-left: 4px;
+    margin-top: 4px;
+    float: inherit;
+}
+
+.errMsg {
+    color: red;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* 修改的样式 */
+.portlet {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.btn-success,
+.btn-success:focus,
+.btn-success.focus {
+    background-color: #87B87F !important;
+    border-color: #87B87F;
+}
+
+.btn-success:hover,
+.btn-success:focus:hover,
+.btn-success.focus:hover,
+.btn-success:active:hover,
+.btn-success:focus:active {
+    background-color: #629B58 !important;
+    border-color: #87B87F;
+}
+
+.searchTable td{
+    padding: 4px 4px 4px 4px ;
+}

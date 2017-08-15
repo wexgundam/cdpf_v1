@@ -1,0 +1,22 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
+<link href="${staticServer}/assets/metronic4.7/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css"/>
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN THEME GLOBAL STYLES -->
+<link href="${staticServer}/assets/metronic4.7/global/css/components-rounded.min.css" rel="stylesheet" id="style_components" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/global/css/plugins.min.css" rel="stylesheet" type="text/css"/>
+<!-- END THEME GLOBAL STYLES -->
+<!-- BEGIN THEME LAYOUT STYLES -->
+<link href="${staticServer}/assets/metronic4.7/layouts/layout/css/layout.min.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/layouts/layout/css/themes/grey.min.css" rel="stylesheet" type="text/css"
+      id="style_color"/>
+<link href="${staticServer}/assets/metronic4.7/layouts/layout/css/custom.min.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/datetimepicker2.1.9/jquery.datetimepicker.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/global/plugins/datatables/datatables.min.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/metronic4.7/global/plugins/datatables/plugins/bootstrap/datatables.bootstrap.css" rel="stylesheet" type="text/css"/>
+<link href="${staticServer}/assets/common/css/common.css?version=${versionNo}" rel="stylesheet" type="text/css"/>
+
+<script src="${staticServer }/assets/metronic4.7/global/plugins/jquery.min.js" type="text/javascript"></script>
